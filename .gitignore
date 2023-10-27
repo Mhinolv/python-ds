@@ -2,3 +2,5 @@
 /include
 /lib
 pyvenv.cfg
+.ipynb_checkpoints
+.DS_Store
